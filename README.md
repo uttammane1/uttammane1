@@ -1,10 +1,10 @@
-![logo](https://github.com/uttammane1/uttammane1/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)
+![logo](Brown Wood Minimalist Profile LinkedIn Banner (1).png)
 
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" alt="coding" width="400" src="Brown Wood Minimalist Profile LinkedIn Banner (1).png">
+<img align="right" alt="coding" width="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttammane1&label=Profile%20views&color=0e75b6&style=flat" alt="uttammane1" /> </p>
 
