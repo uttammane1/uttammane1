@@ -1,4 +1,4 @@
-![logo](Brown Wood Minimalist Profile LinkedIn Banner (1).png)
+![logo](White Blue Professional Website Developer LinkedIn Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
