@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttammane1&show_icons=true&locale=en&layout=compact" alt="uttammane1" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttammane1&show_icons=true&locale=en" alt="uttammane1" /></p>
