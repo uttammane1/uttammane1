@@ -1,4 +1,4 @@
-![logo](Brown Wood Minimalist Profile LinkedIn Banner (1).png)
+![logo](https://github.com/uttammane1/uttammane1/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
 <h3 align="center">A passionate web developer</h3>
