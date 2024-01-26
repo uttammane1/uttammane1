@@ -1,10 +1,10 @@
-![logo](White Blue Professional Website Developer LinkedIn Banner.png)
+![logo](Brown Wood Minimalist Profile LinkedIn Banner (1).png)
 
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" alt="coding" width="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ym00qMoMaNOiLAMSozBWZ&ust=1706315616281000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDHspPn-YMDFQAAAAAdAAAAABAO">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttammane1&label=Profile%20views&color=0e75b6&style=flat" alt="uttammane1" /> </p>
 
