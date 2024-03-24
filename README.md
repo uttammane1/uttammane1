@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/uttam-mane-036252291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/uttam-mane-036252291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 
 - 📫 How to reach me **uttammaneofficial@gmail.com**
 
