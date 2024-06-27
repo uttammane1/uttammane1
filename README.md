@@ -13,7 +13,7 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uttam-mane-036252291/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_uttam_mane_101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uttammane175677)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-mane-036252291/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_uttam_mane_101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uttammane175677)
 
 # 💻 Tech Stack:
 
