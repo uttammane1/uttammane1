@@ -41,14 +41,12 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uttammane1&theme=holi&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttammane1&theme=holi&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttammane1&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
