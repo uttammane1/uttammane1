@@ -15,11 +15,11 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<br><br>
+
 🤔 Check Out my <a href="https://drive.google.com/file/d/1boEjDYbzgHnGzbi5iqwrRwPONQ8UyI7q/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
-<br><br>
+<br><br><br>
 👨‍💻 Know more about me <a href="https://portfolio-eta-blond-76.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
-<br><br>
+<br><br><br>
 ⚡ How to reach me <a href="mailto:uttammaneofficial@gmail.com" style="color:rgb(250, 111, 50);">uttammaneofficial@gmail.com</a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
