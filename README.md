@@ -20,9 +20,9 @@
 
 # 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/uttam-mane-036252291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40" /></a>
-<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="40" /></a>
-<a href="https://x.com/uttammane175677"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="40" /></a>
+<a href="https://www.linkedin.com/in/uttam-mane-036252291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
+<a href="https://x.com/uttammane175677"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
@@ -49,3 +49,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttammane1&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
