@@ -20,7 +20,9 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-mane-036252291/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_uttam_mane_101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uttammane175677)
+<a href="https://www.linkedin.com/in/uttam-mane-036252291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40" /></a>
+<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="40" /></a>
+<a href="https://x.com/uttammane175677"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="40" /></a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
