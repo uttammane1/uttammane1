@@ -2,7 +2,7 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
