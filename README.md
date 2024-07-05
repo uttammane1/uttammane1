@@ -6,9 +6,14 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uttammane1&label=Profile%20views&color=0e75b6&style=flat" alt="uttammane1" />
+</div>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttammane1&label=Profile%20views&color=0e75b6&style=flat" alt="uttammane1" /> </p>
 
 <br><br>
 🤔 Check Out my <a href="https://drive.google.com/file/d/1boEjDYbzgHnGzbi5iqwrRwPONQ8UyI7q/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
