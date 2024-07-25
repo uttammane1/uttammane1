@@ -1,5 +1,4 @@
-![logo](<https://github.com/uttammane1/uttammane1/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png>)
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/d4aa78f9-82a9-4d92-9730-e0fe46ab790b)
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
 <h3 align="center">A passionate full stack web developer</h3>
