@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
+Creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
+
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <div align="center">
