@@ -41,10 +41,6 @@ Creating things that live on the internet is a passion. A passionate Developer �
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uttammane1&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 # 📊 GitHub Stats:
 
