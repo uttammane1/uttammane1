@@ -55,3 +55,8 @@ Creating things that live on the internet is a passion. A passionate Developer ð
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttammane1&theme=2077" alt="Uttam" width="100%"   />
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+
