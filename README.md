@@ -1,4 +1,3 @@
-
 ![Grey Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/220f517e-6308-40fc-a462-ec22de96e0dd)
 
 <h1 align="center">Hi 👋, I'm Uttam Mane</h1>
