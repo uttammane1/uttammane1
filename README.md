@@ -20,7 +20,7 @@ Creating things that live on the internet is a passion. A passionate Developer �
 <br>
 🤔 Check Out my <a href="https://drive.google.com/file/d/1-v2vdxWrauAwG8pdY7CRg3lBAYAvhQci/view?usp=drive_link" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
-👨‍💻 Know more about me <a href="https://portfolio-eta-blond-76.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
+👨‍💻 Know more about me <a href="https://uttammane.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
 ⚡ How to reach me <a href="mailto:uttammaneofficial@gmail.com" style="color:rgb(250, 111, 50);">uttammaneofficial@gmail.com</a>
 
